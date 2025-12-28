@@ -1,0 +1,6 @@
+@baseballApi_HostAddress = http://localhost:5204
+
+GET {{baseballApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
